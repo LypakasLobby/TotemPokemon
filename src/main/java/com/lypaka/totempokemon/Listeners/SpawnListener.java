@@ -5,6 +5,7 @@ import com.lypaka.totempokemon.API.TotemSpawnEvent;
 import com.lypaka.totempokemon.ConfigGetters;
 import com.lypaka.totempokemon.Helpers.NBTHelpers;
 import com.pixelmonmod.pixelmon.api.events.spawning.SpawnEvent;
+import com.pixelmonmod.pixelmon.api.registries.PixelmonSpecies;
 import com.pixelmonmod.pixelmon.api.util.helpers.RandomHelper;
 import com.pixelmonmod.pixelmon.entities.pixelmon.PixelmonEntity;
 import com.pixelmonmod.pixelmon.spawning.PlayerTrackingSpawner;

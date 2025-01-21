@@ -45,7 +45,7 @@ public class DropsListener {
 
     }
 
-    private static ItemStack getSpecialCrystalOrNull (Pokemon pokemon) {
+    public static ItemStack getSpecialCrystalOrNull (Pokemon pokemon) {
 
         if (pokemon.getSpecies().getName().equalsIgnoreCase("Raichu")) {
 
